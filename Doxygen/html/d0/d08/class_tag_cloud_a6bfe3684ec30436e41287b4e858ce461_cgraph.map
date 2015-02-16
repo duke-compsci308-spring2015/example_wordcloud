@@ -1,7 +1,0 @@
-<map id="TagCloud.main" name="TagCloud.main">
-<area shape="rect" id="node2" href="$d0/d08/class_tag_cloud.html#a65b76f75ce9833a1aa4342ef735d3108" title="TagCloud.countWords" alt="" coords="168,5,325,32"/>
-<area shape="rect" id="node5" href="$d0/d08/class_tag_cloud.html#a254f1e0269e4a6d0fb0c940416b0051a" title="TagCloud.TagCloud" alt="" coords="177,56,317,83"/>
-<area shape="rect" id="node6" href="$d0/d08/class_tag_cloud.html#afcfebb3e967e406ae22533984c3a828a" title="TagCloud.topWords" alt="" coords="175,107,318,133"/>
-<area shape="rect" id="node3" href="$d0/d08/class_tag_cloud.html#aaa5384ed881c97ad63401c469e4bfd29" title="TagCloud.isTaggable" alt="" coords="373,5,523,32"/>
-<area shape="rect" id="node4" href="$d0/d08/class_tag_cloud.html#a5532b638b9d54e1b9868ed6c32d28a48" title="TagCloud.sanitize" alt="" coords="382,56,514,83"/>
-</map>
